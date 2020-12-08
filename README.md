@@ -1,1 +1,1 @@
-# Royal_Family__Natural_Language_First_Order_Logic_Prolog
+# Royal_Family_Natural_Language_First_Order_Logic_Prolog
